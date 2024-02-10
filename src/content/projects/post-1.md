@@ -1,7 +1,7 @@
 ---
 title: "Atimu cms - business management software. "
 description: Enterprise resource planning (ERP) is software that helps businesses manage day-to-day operations, such as inventory management or accounting.
-publishDate: "Feb 02 2024"
+publishDate: "Feb 12 2024"
 seo:
   image:
     src: "/project-4.jpg"
