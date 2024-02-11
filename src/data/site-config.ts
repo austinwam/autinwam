@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Minimal Astro.js theme',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
-        src: '/dante-preview.jpg',
+        src: 'image1.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
@@ -99,7 +99,7 @@ const siteConfig: SiteConfig = {
         title: 'Hi There & Welcome to My Corner of the Web!',
         text: "I'm **Austin Wambugu**, a Full-Stack Developer at atimu ltd, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/austinwam/'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/austin-wambugu-322060178/'>Linkedin</a>.",
         image: {
-            src: '/hero.jpeg',
+            src: 'image1.jpg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [

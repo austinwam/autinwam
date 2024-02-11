@@ -49,10 +49,9 @@ NeuralPlaylist is a cutting-edge web application that redefines music discovery 
 
 ## Technology Stack
 
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
+- **Frontend:** [Flutter](https://flutter.dev/) for a dynamic and responsive user interface.
+- **Backend:** [Rust(Axum)](https://docs.rs/axum/latest/axum/) for handling server-side logic and API integration.
+- **Database:** [Postgresql](https://www.postgresql.org/) for efficient storage and retrieval of data.
 
 ## Outcome
 

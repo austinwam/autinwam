@@ -1,15 +1,15 @@
 ---
-title: "Rentovia - property management software"
+title: "Rentovia - property management software."
 description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
 publishDate: "Oct 2 2023"
 isFeatured: true
 seo:
   image:
-    src: "/project-2.jpg"
-    alt: Project preview
+    src: "/rentovia.png"
+    alt: rentovia preview
 ---
 
-![Project preview](/project-2.jpg)
+![Project preview](/rentovia.png)
 
 <!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
 
@@ -41,9 +41,9 @@ TimeWarp Travel Agency aims to redefine the travel experience by offering an inn
 - A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
 - The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
 
-4. **Time-Port Virtual Reality Experience:**
+<!-- 4. **Time-Port Virtual Reality Experience:**
 
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
+- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees. -->
 
 5. **Chronicle Explorer Blog:**
 
@@ -52,10 +52,9 @@ TimeWarp Travel Agency aims to redefine the travel experience by offering an inn
 
 ## Technology Stack
 
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
+- **Frontend:** [Flutter](https://flutter.dev/) for a dynamic and responsive user interface.
+- **Backend:** [Python(Flask)](https://flask.palletsprojects.com/en/3.0.x/) for handling server-side logic and API integration.
+- **Database:** [Postgresql](https://www.postgresql.org/) for efficient storage and retrieval of data.
 
 ## Outcome
 
