@@ -38,12 +38,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Austinwam',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Austin Wambugu',
+    subtitle: 'Full-stack developer/Founder.',
+    description: 'Am a founder at Atimu ltd. As well as a Full-stack developer.',
     image: {
         src: 'image1.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'austin wam'
     },
     headerNavLinks: [
         {

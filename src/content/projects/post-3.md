@@ -1,7 +1,7 @@
 ---
 title: "Bimopos - Point of sale."
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
-publishDate: "Oct 12 2023"
+description: Point of assist small entprises to keep track of their sales.Keep track of depts by their costomers
+publishDate: "Oct 12 2024"
 isFeatured: true
 seo:
   image:
@@ -13,7 +13,7 @@ seo:
 <!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
 
 **Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+It is an android application for both mobile and table.built with sqlite.
 
 ## Objectives
 

@@ -53,7 +53,7 @@ EcoBuddy is a revolutionary mobile application designed to make sustainable livi
 - Frontend: Dart Flutter for cross-platform mobile app development.
 - Backend: Python Flask to create api,s.
 - Database: Postgresql.
-- beautifulsoup4 for the scraper.
+- Beautifulsoup4 for the scraper.
 
 ## Outcome
 
