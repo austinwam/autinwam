@@ -10,11 +10,11 @@ seo:
 
 ![Alt text for image](/image1.jpg)
 
-<!-- **Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
-
 ## Austin wambugu - Web Developer based in Kenya
 
 **Greetings!** I'm Austin wambugu, a passionate,self-motivated and detail-oriented Full-stack developer residing in Kenya. With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+
+Am a found at atimu ltd. Where we are building a property management software.
 
 ## Skills and Expertise
 

@@ -1,6 +1,8 @@
 ---
 title: "Atimu cms - business management software."
-description: Enterprise resource planning (ERP) is software that helps businesses manage day-to-day operations, such as inventory management or accounting.
+description:
+  Enterprise resource planning (ERP) is software that helps businesses manage day-to-day operations,
+  such as inventory management or accounting.
 publishDate: "Feb 12 2023"
 seo:
   image:
@@ -10,7 +12,7 @@ seo:
 ![Project preview](/project-4.jpg)
 
 **Project Overview:**
-Atimu cms/erp is a an open source software.To help people manage business web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+Atimu cms/erp is a an open source software.It constist of an open source ERP, integrates CRM, sales, project management, inventory management, accounting, human resources management, marketing.
 
 ## Objectives
 
