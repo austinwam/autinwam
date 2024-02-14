@@ -1,5 +1,5 @@
 ---
-title: "Atimu cms - business management software. "
+title: "Atimu cms - business management software."
 description: Enterprise resource planning (ERP) is software that helps businesses manage day-to-day operations, such as inventory management or accounting.
 publishDate: "Feb 12 2023"
 seo:
@@ -9,10 +9,8 @@ seo:
 
 ![Project preview](/project-4.jpg)
 
-<!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
-
 **Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+Atimu cms/erp is a an open source software.To help people manage business web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
 
 ## Objectives
 

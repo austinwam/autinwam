@@ -10,16 +10,13 @@ seo:
 
 ![Project preview](/project-3.jpg)
 
-<!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
-
 **Project Overview:**
-It is an android application for both mobile and table.built with sqlite.
+It is an android application for both mobile and table.built with flutter sqlite(sql) and sembast(nosql).
 
 ## Objectives
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+1. Develop a user-friendly mobile app that utilizes a database to keep track of sale.
+2. Keep track of customer purshaces and depts.
 
 ## Features
 
@@ -51,9 +48,7 @@ It is an android application for both mobile and table.built with sqlite.
 ## Technology Stack
 
 - Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
+- Database: Sqlite/sembast for efficient data storage and retrieval.
 
 > Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
 
